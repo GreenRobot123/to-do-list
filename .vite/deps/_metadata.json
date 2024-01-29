@@ -1,0 +1,23 @@
+{
+  "hash": "73df1375",
+  "browserHash": "aa3843a0",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "be19d724",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "66c9476d",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-KEJOO2LQ": {
+      "file": "chunk-KEJOO2LQ.js"
+    }
+  }
+}
